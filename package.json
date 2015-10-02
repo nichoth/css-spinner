@@ -1,0 +1,26 @@
+{
+  "name": "css-spinner",
+  "description": "Loading spinner css",
+  "main": "spinner.css",
+  "keywords": [
+    "loading",
+    "spinner",
+    "css"
+  ],
+  "version": "0.0.0",
+  "browserify": {
+    "transform": []
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "html-inline example/index.html | curl -sT- https://htmlb.in"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nichoth/css-spinner.git"
+  },
+  "license": "ISC",
+  "peerDependencies": {},
+  "devDependencies": {}
+}
