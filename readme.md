@@ -8,6 +8,12 @@ Loading spinner that's just css. Include the css file and make a `div.progess` e
 
 ## example
 
+Sass
+
+```sass
+@import "node_modules/css-spinner/_spinner.scss";
+```
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
