@@ -13,6 +13,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "cp spinner.css _spinner.scss",
     "demo": "html-inline example/index.html | curl -sT- https://htmlb.in"
   },
   "author": "Nick Thomas <nichoth@gmail.com>",
